@@ -45,7 +45,7 @@
 ---
 
 ### 🚀 Featured Projects  
-- 🔹 **Smart Pet Collar System** – IoT + Mobile App with real-time tracking & analytics  
+- 🔹 **Smart Pet Collar System** – IoT + Web Dashboard with real-time tracking & analytics  
 - 🔹 **AI Virtual Health Assistant** – Chatbot + diagnosis recommendation system  
 - 🔹 **Task Scheduler (PHP + CRON)** – Automated reminders with email notifications  
 

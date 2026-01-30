@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Siddesh Choudhari</h1>
 <h3 align="center">Building Scalable Systems | AI/ML & Cloud Enthusiast | Full-Stack Developer 🚀</h3>
 
-https://siddesh-choudhari-c3bvpu1.gamma.site/
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=SSC1311&label=Profile%20views&color=0e75b6&style=flat" alt="SSC1311" /> 
 </p>

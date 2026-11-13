@@ -71,9 +71,9 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SSC1311&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SSC1311&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SSC1311/SSC1311/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/SSC1311/SSC1311/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" width="48%" />
 </p>
 
 <p align="center">
